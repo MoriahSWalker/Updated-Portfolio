@@ -32,6 +32,10 @@ body {
     letter-spacing: 2.5px;
 }
 
+img.logo_img {
+    display: flex;
+}
+
 div.nav_links_container {
     display: flex;
     justify-content: flex-end;
